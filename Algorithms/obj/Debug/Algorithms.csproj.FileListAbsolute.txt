@@ -4,3 +4,6 @@ c:\users\smattaparti\documents\visual studio 2013\Projects\Algorithms\bin\Debug\
 c:\users\smattaparti\documents\visual studio 2013\Projects\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
 c:\users\smattaparti\documents\visual studio 2013\Projects\Algorithms\obj\Debug\Algorithms.exe
 c:\users\smattaparti\documents\visual studio 2013\Projects\Algorithms\obj\Debug\Algorithms.pdb
+C:\Users\smattaparti\Documents\GitHub\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\smattaparti\Documents\GitHub\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\smattaparti\Documents\GitHub\Algorithms\obj\Debug\Algorithms.pdb
