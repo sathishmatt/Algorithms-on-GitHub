@@ -10,7 +10,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            int size = 10;
+            int size = 20;
             CustomArray arrOfNums = new CustomArray(size);
 
             CustomArray sortedArray = new CustomArray(size);
